@@ -12,9 +12,10 @@ let age: number = 21;
 let isAdult : boolean = true;
 ```
 
-car에서 bmw는 문자열이기 때문에 string을 타입으로 지정해줍니다.
-age에서 21은 숫자이기 때문에 number를 타입으로 지정해줍니다.
-isAdult에서 true값은 참과 거짓이기 때문에 true를 타입으로 지정해줍니다.<br><br>
+car에서 bmw는 문자열이기 때문에 string을 타입으로 지정해줍니다.<br>
+age에서 21은 숫자이기 때문에 number를 타입으로 지정해줍니다.<br>
+isAdult에서 true값은 참과 거짓이기 때문에 true를 타입으로 지정해줍니다.
+<br><br>
 
 
 
@@ -32,7 +33,7 @@ let week1 : string[] = ['mon', 'tue', 'wed'];
 let week2 : Array<string> = ['mon', 'tue', 'wed'];
 ```
 
-a에서 [1, 2, 3]은 숫자 배열이기 때문에 number를 입력해주고 [  ]를 함께 입력해주면 숫자 배열로 타입을 지정됩니다. 
+a에서 [1, 2, 3]은 숫자 배열이기 때문에 number를 입력해주고 [  ]를 함께 입력해주면 숫자 배열로 타입을 지정됩니다.<br> 
 혹은 Array< number >와 같이 입력해도 됩니다. 문자열 배열도 마찬가지로 number자리에 string을 입력해주시면 타입이 지정됩니다.
 <br><br>
 
@@ -48,7 +49,7 @@ b = ['z',1];
 ```
 
 배열과 같은 모습인데 인덱스별로 타입이 다를때 사용할 수 있습니다. 배열의 첫번째에는 string이 들어가있고 배열의 두번째에는 number가 들어있습니다. 따라서 첫번째 배열에는 문자열만 들어갈 수 있고 두번째 배열에는 숫자만 들어갈 수 있습니다.
-
+<br><br>
 
 
 
@@ -62,7 +63,7 @@ function sayHello():void {
 ```
 
 void는 주로 함수에서 아무것도 반환하지 않을 때 사용됩니다.
-
+<br><br>
 
 
 
