@@ -6,7 +6,21 @@
 
 ## [1. 기본 타입(Basic type)](https://github.com/AidenLee0408/Std_TS1/blob/main/%231_Basic/Basic.md)
 
+- 문자 (String), 숫자 (number), 참과 거짓(boolean)
 
+- 배열 (Array)
+
+- 튜플 (tuple)
+
+- void
+
+- never
+
+- enum
+
+- null과 undefined
+
+  
 
 ## [2. 인터페이스(Interface)](https://github.com/AidenLee0408/Std_TS1/blob/main/%232_Inteface/Interface.md)
 
