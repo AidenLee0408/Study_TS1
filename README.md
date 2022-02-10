@@ -8,28 +8,24 @@
 
 
 
-#2. 인터페이스(Interface)
+## 2. 인터페이스(Interface)
 
 
 
-#3. 함수 (Function)
+## 3. 함수 (Function)
 
 
 
-#4-1. 리터럴(Literal)
-
-#4-2. 유니온(Union)
-
-#4-3. 인터섹션(Intersection)
+## 4. 리터럴(Literal), 유니온(Union), 인터섹션(Intersection)
 
 
 
-#5. 클래스(Class)
+## 5. 클래스(Class)
 
 
 
-#6. 제네릭(Generic)
+## 6. 제네릭(Generic)
 
 
 
-#7. 유틸리티(Utility)
+## 7. 유틸리티(Utility)
