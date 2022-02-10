@@ -8,24 +8,24 @@
 
 
 
-## 2. 인터페이스(Interface)
+## [2. 인터페이스(Interface)](https://github.com/AidenLee0408/Std_TS1/blob/main/%232_Inteface/Interface.md)
 
 
 
-## 3. 함수 (Function)
+## [3. 함수 (Function)](https://github.com/AidenLee0408/Std_TS1/blob/main/%233_Function/Function.md)
 
 
 
-## 4. 리터럴(Literal), 유니온(Union), 인터섹션(Intersection)
+## [4. 리터럴(Literal), 유니온(Union), 인터섹션(Intersection)](https://github.com/AidenLee0408/Std_TS1/blob/main/%234_Literal%2CUnion%2CIntersection/Literal%2CUnion%2CIntersection.md)
 
 
 
-## 5. 클래스(Class)
+## [5. 클래스(Class)](https://github.com/AidenLee0408/Std_TS1/blob/main/%235_Class/Class.md)
 
 
 
-## 6. 제네릭(Generic)
+## [6. 제네릭(Generic)](https://github.com/AidenLee0408/Std_TS1/blob/main/%236_Generic/Generic.md)
 
 
 
-## 7. 유틸리티(Utility)
+## [7. 유틸리티(Utility)](https://github.com/AidenLee0408/Std_TS1/blob/main/%237_Utility/Utility.md)
