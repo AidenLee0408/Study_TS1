@@ -1,10 +1,10 @@
 # Std_TS1
 
-코딩앙마님 타입스크립트 강의 스터디노트입니다.
+코딩앙마님의 [타입스크립트 강의](https://www.youtube.com/watch?v=5oGAkQsGWkc&list=PLZKTXPmaJk8KhKQ_BILr1JKCJbR0EGlx0)를 스터디노트로 기록한 것 입니다.
 
 
 
-#1. 기본 타입(Basic type)
+## 1. 기본 타입(Basic type)
 
 
 
