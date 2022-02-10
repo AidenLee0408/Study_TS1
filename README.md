@@ -4,7 +4,7 @@
 
 
 
-## 1. 기본 타입(Basic type)
+## [1. 기본 타입(Basic type)](https://github.com/AidenLee0408/Std_TS1/blob/main/Basic/Basic.md)
 
 
 
