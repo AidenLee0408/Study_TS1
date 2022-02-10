@@ -1,5 +1,5 @@
 # 기본 타입(Basic Type)
-
+<br>
 
 
 
@@ -15,7 +15,7 @@ let isAdult : boolean = true;
 
 car에서 bmw는 문자열이기 때문에 string을 타입으로 지정해줍니다.
 age에서 21은 숫자이기 때문에 number를 타입으로 지정해줍니다.
-isAdult에서 true값은 참과 거짓이기 때문에 true를 타입으로 지정해줍니다.
+isAdult에서 true값은 참과 거짓이기 때문에 true를 타입으로 지정해줍니다.<br>
 
 
 
