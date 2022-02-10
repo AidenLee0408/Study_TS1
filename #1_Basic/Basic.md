@@ -14,7 +14,7 @@ let isAdult : boolean = true;
 
 car에서 bmw는 문자열이기 때문에 string을 타입으로 지정해줍니다.
 age에서 21은 숫자이기 때문에 number를 타입으로 지정해줍니다.
-isAdult에서 true값은 참과 거짓이기 때문에 true를 타입으로 지정해줍니다.<br>
+isAdult에서 true값은 참과 거짓이기 때문에 true를 타입으로 지정해줍니다.<br><br>
 
 
 
@@ -34,7 +34,7 @@ let week2 : Array<string> = ['mon', 'tue', 'wed'];
 
 a에서 [1, 2, 3]은 숫자 배열이기 때문에 number를 입력해주고 [  ]를 함께 입력해주면 숫자 배열로 타입을 지정됩니다. 
 혹은 Array< number >와 같이 입력해도 됩니다. 문자열 배열도 마찬가지로 number자리에 string을 입력해주시면 타입이 지정됩니다.
-
+<br><br>
 
 
 
