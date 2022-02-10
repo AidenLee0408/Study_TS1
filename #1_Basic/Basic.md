@@ -117,6 +117,6 @@ let n : null = null;
 let u : undefined = undefined;
 ```
 
-다음과 같이 null과 undefined를 사용할 수 있습니다.
-null은 의도적으로 특정한 값이 없음을 명시할때 사용하는 타입입니다.
+다음과 같이 null과 undefined를 사용할 수 있습니다.<br>
+null은 의도적으로 특정한 값이 없음을 명시할때 사용하는 타입입니다.<br>
 undefined는 아무값도 할당받지 않았을때 사용하는 타입입니다.
