@@ -24,7 +24,15 @@
 
 ## [2. 인터페이스(Interface)](https://github.com/AidenLee0408/Std_TS1/blob/main/%232_Inteface/Interface.md)
 
+- interface 사용법
 
+- interface로 함수 정의
+
+- implements
+
+- extends
+
+  
 
 ## [3. 함수 (Function)](https://github.com/AidenLee0408/Std_TS1/blob/main/%233_Function/Function.md)
 
