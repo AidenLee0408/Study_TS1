@@ -14,7 +14,7 @@
 - enum
 - null과 undefined
 
-→ Chapter01 스터디노트
+→ [Chapter01 스터디노트](C:\Users\aiden\Desktop\Std_TS1\Chapter01\Chapter01.md)
 
 
 
@@ -25,13 +25,13 @@
 - extends
 
 
-→ Chapter02 스터디노트
+→ [Chapter02 스터디노트](C:\Users\aiden\Desktop\Std_TS1\Chapter02\Chapter02.md)
 
 
 
 ### Chapter03 함수 (Function)
 
-→ Chapter03 스터디노트
+→ [Chapter03 스터디노트](C:\Users\aiden\Desktop\Std_TS1\Chapter03\Chapter03.md)
 
 
 
@@ -39,23 +39,23 @@
 
 ### Chapter04 리터럴(Literal), 유니온(Union), 인터섹션(Intersection)
 
-→ Chapter04 스터디노트
+→ [Chapter04 스터디노트](C:\Users\aiden\Desktop\Std_TS1\Chapter04\Chapter04.md)
 
 
 
 ### Chapter05 클래스(Class)
 
-→ Chapter05 스터디노트
+→ [Chapter05 스터디노트](C:\Users\aiden\Desktop\Std_TS1\Chapter05\Chapter05.md)
 
 
 
 ### Chapter06 제네릭(Generic)
 
-→ Chapter06 스터디노트
+→ [Chapter06 스터디노트](C:\Users\aiden\Desktop\Std_TS1\Chapter06\Chapter06.md)
 
 
 
 ### Chapter07. 유틸리티(Utility)
 
-→ Chapter07 스터디노트
+→ [Chapter07 스터디노트](C:\Users\aiden\Desktop\Std_TS1\Chapter07\Chapter07.md)
 
