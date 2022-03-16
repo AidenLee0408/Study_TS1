@@ -4,50 +4,58 @@
 
 
 
-## [1. 기본 타입(Basic type)](https://github.com/AidenLee0408/Std_TS1/blob/main/%231_Basic/Basic.md)
+### Chapter01 기본 타입(Basic type)
 
 - 문자 (String), 숫자 (number), 참과 거짓(boolean)
-
 - 배열 (Array)
-
 - 튜플 (tuple)
-
 - void
-
 - never
-
 - enum
-
 - null과 undefined
 
-  
+→ Chapter01 스터디노트
 
-## [2. 인터페이스(Interface)](https://github.com/AidenLee0408/Std_TS1/blob/main/%232_Inteface/Interface.md)
 
-- interface 사용법
+
+### Chapter02 인터페이스(Interface)
 
 - interface로 함수 정의
-
 - implements
-
 - extends
 
-  
 
-## [3. 함수 (Function)](https://github.com/AidenLee0408/Std_TS1/blob/main/%233_Function/Function.md)
-
-
-
-## [4. 리터럴(Literal), 유니온(Union), 인터섹션(Intersection)](https://github.com/AidenLee0408/Std_TS1/blob/main/%234_Literal%2CUnion%2CIntersection/Literal%2CUnion%2CIntersection.md)
+→ Chapter02 스터디노트
 
 
 
-## [5. 클래스(Class)](https://github.com/AidenLee0408/Std_TS1/blob/main/%235_Class/Class.md)
+### Chapter03 함수 (Function)
+
+→ Chapter03 스터디노트
 
 
 
-## [6. 제네릭(Generic)](https://github.com/AidenLee0408/Std_TS1/blob/main/%236_Generic/Generic.md)
+
+
+### Chapter04 리터럴(Literal), 유니온(Union), 인터섹션(Intersection)
+
+→ Chapter04 스터디노트
 
 
 
-## [7. 유틸리티(Utility)](https://github.com/AidenLee0408/Std_TS1/blob/main/%237_Utility/Utility.md)
+### Chapter05 클래스(Class)
+
+→ Chapter05 스터디노트
+
+
+
+### Chapter06 제네릭(Generic)
+
+→ Chapter06 스터디노트
+
+
+
+### Chapter07. 유틸리티(Utility)
+
+→ Chapter07 스터디노트
+
