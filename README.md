@@ -22,7 +22,7 @@
 - implements
 - extends
 
-[→ Chapter02 스터디노트](C:\Users\aiden\Desktop\Std_TS1\Chapter02\Chapter02.md)
+→ [Chapter02 스터디노트](Chapter02/Chapter02.md)
 
 
 
@@ -33,7 +33,7 @@
 - this 함수
 - 오버로드
 
-→ [Chapter03 스터디노트](C:\Users\aiden\Desktop\Std_TS1\Chapter03\Chapter03.md)
+→ [Chapter03 스터디노트](Chapter03/Chapter03.md)
 
 
 
@@ -45,7 +45,7 @@
 - Union
 - Intersection
 
-→ [Chapter04 스터디노트](C:\Users\aiden\Desktop\Std_TS1\Chapter04\Chapter04.md)
+→ [Chapter04 스터디노트](Chapter04/Chapter04.md)
 
 
 
@@ -55,7 +55,7 @@
 - class 2
 - class 3
 
-→ [Chapter05 스터디노트](C:\Users\aiden\Desktop\Std_TS1\Chapter05\Chapter05.md)
+→ [Chapter05 스터디노트](Chapter05/Chapter05.md)
 
 
 
@@ -64,7 +64,7 @@
 - Generic
 - interface에서 generic 사용
 
-→ [Chapter06 스터디노트](C:\Users\aiden\Desktop\Std_TS1\Chapter06\Chapter06.md)
+→ [Chapter06 스터디노트](Chapter06/Chapter06.md)
 
 
 
@@ -75,5 +75,5 @@
 - Required<T>
 - Readonly
 
-→ [Chapter07 스터디노트](C:\Users\aiden\Desktop\Std_TS1\Chapter07\Chapter07.md)
+→ [Chapter07 스터디노트](Chapter07/Chapter07.md)
 
