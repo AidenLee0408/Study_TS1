@@ -1,4 +1,4 @@
-# 유틸리티(Utility)
+# 유틸리티 타입(Utility Types)
 
 // keyof : key 값을 사용하면 interface의 값들을 union으로 받을 수 있음
 

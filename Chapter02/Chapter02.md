@@ -42,7 +42,9 @@ readonly는 읽기 전용 속성이기 때문에 수정할 수 없고 읽기 만
 
 대괄호 [ ] 안에 속성값과 key를 입력하고 value를 적어주면 다음 코드들처럼 학년과 점수를 여러 개 받을 수 있습니다.
 
-## interface로 함수 정의
+
+
+### interface로 함수 정의
 
 ```
 // interface 함수 정의
@@ -79,7 +81,7 @@ A(21) // true
 
 
 
-## Implements, extends
+### Implements, extends
 
 ```
 // implements - interface로 Class를 정의
