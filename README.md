@@ -14,7 +14,7 @@
 - enum
 - null과 undefined
 
-→ [Chapter01 스터디노트](C:\Users\aiden\Desktop\Std_TS1\Chapter01\Chapter01.md)
+→ [Chapter01 스터디노트](Chapter01/Chapter01.md)
 
 ### Chapter02 인터페이스(Interface)
 
