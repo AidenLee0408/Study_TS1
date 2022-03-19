@@ -1,5 +1,8 @@
 # 유틸리티 타입(Utility Types)
 
+> keyof
+
+```
 // keyof : key 값을 사용하면 interface의 값들을 union으로 받을 수 있음
 
 
@@ -51,6 +54,9 @@ let admin: Partial<UserU> = {
   name: "Bob",
 
 };
+```
+
+
 
 > Required
 
@@ -88,8 +94,9 @@ let admin1 : Required<UserU> = {
 
 
 
+> Readonly
 
-
+```
 //Readonly : 처음에 값을 할당하면 이후에 짜여진 코드로는 값을 수정할 수 없다
 
 
@@ -123,3 +130,4 @@ let admin2: Readonly<UserU> = {
 
 
 // admin2.id = 4; -> 값 변경 불가능
+```
