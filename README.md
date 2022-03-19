@@ -23,7 +23,7 @@
 - extends
 
 
-→ [Chapter02 스터디노트](C:\Users\aiden\Desktop\Std_TS1\Chapter02\Chapter02.md)
+[→ Chapter02 스터디노트](C:\Users\aiden\Desktop\Std_TS1\Chapter02\Chapter02.md)
 
 
 
